@@ -8,6 +8,9 @@
     font-size: 17px;
     cursor: pointer;
 }
+img {
+    width: 500px;
+}
 .link {
     color: black;
 }
